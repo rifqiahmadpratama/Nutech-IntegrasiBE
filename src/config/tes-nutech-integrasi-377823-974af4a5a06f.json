@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tes-nutech-integrasi-377823",
+  "private_key_id": "974af4a5a06fa6273190b0eba74dba27c09e538d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD+3gIMTHTDXQHm\nFE8nhtam5KNXaNvw1BPcZ5Zbgeu/JclSV006m5wRPBHuxh3YVkF3BBDCw/JbISz8\n4ZfZgFdVRvh46Jchm17I6Yi5HQ05azWt8HupypZrK8eZZ2bzWIaTJGFhue/s1f+I\nCOiqwOsMZtdTnq6CRsc6iY8EkY/0r5ouM0bbypsWzwbxRtt7fgiHcpiNcMNgUGYg\nzzT6ZqLvFbEyD2fHwWC4J5v/mJkkP2CWV2H0AwAMg9YWZ25yaIINEfMCFhLS+qLp\nFpoee9VCe4wFLZ16ZNup72t6ah6qJgWRTenTIP4D8k6iy6KgYlX/k1smSmXfd7SK\nPuYdTnMNAgMBAAECggEAKFyqyN1T0XuZeSEmvuz+8eu8BXP8/tjrM0ixWlkLJ1iZ\n1yEtwRYTI3SWp3B3GgNg9zLs35dN+ooYuIyWcnK9gesNHwLAqmkTW/CF/0DfTwRQ\nOjVfNC653wuOHthuCKQwnb1RcbtTSHfEcbvtcts97hccSykSXF3On9HYlSHjQR28\nPrqxWkBBKrNSRHHVOo1Lp2MoLgOmZH2SiOq9I9Yrz3rUfH3eV28qUKhN/7ZOvPiZ\npoujD5jzQpobWWHLlO1EmnzkVTfdpIgjIM4LdJFlUDrL3+6NfhTtUtH22N4YxTc7\nqEpsPbuFVWdNSrdfwMslMhCuaSiUc1Hg6YF1R5hO4QKBgQD/9zFNmKUq11LiOzC4\nJw5JEAa4viVSFzNH6Vehuk32oAa9nam9v4TyHvzTT2G4wBB7ZZ898HEqNo4ljDPn\nnjUbFVSp90+tYnS3Q4cUQHZOYFO4RoDmwmhFT6kOt0g+IujbyFuOniyivF2nWnlF\n0OnRIsdFynn7p6FRmrrN3mOV4QKBgQD+5scR3JO9Xd4HxZFlErns2NZfj9vG0rTe\nEtTnJ8SrjYPOdLYaedvb/UBy7/Sc9eZ5OX5EFgT3YtkJDBAk/iYOqgFa32uDLs57\nuJLdaNaPW/PXZu2MtBEZaH5mHV4Ik+rDnmJIW729HLVMyhpSmDv4ju4sEUSn6OLx\nGYZoAFNqrQKBgQDxm74hFZXKM4eb3e0l1k/IrWT62xjVPOr91QcPtJDE29ahAwJn\nBjGSbaeOOl7uifTE1W6Tg7L9+pMAZC/WUGKmVuMcsEG4UrgDCK2ncxV487nytjIU\nH6tWyVO1fVGmvUL5ukyZ+Tn+vjjUsDTKruEVtHNOsEmmPluqcJglnOZ5YQKBgBjI\nj2ppK+QpkEDpMK3HGFSy8ITyE8hNDFDbO+ANuc2EQOB98Ia6emn1QaLrOblZH0OC\nF4i/K1RyQ+/hQGCYZVLfrKoNNwLWNjVJSN5GJzZhFmBHHamkiFUUF9YN3Oqwlw7W\nA3BNmzEb7XS94blOG+aa3wVh2G8K8aXHeY37GiExAoGBALt5Hgpy+p9+1GsiPZUd\nDV+K4DaVB0ZU3l5GOzEnXL9JZ+nTQ1phd6CweQAZ0udz+ocW3EWZYj1M8Rz3KmcX\nO5k3EgqOFNwxBTe3VR0ahzp6SEiarn8idxo8Z5F5/rcLEB2XJxmPfGR2jvQnsfmS\nnyiaQWO9SC/zuIAbacx5C2El\n-----END PRIVATE KEY-----\n",
+  "client_email": "nutechintegrasi@tes-nutech-integrasi-377823.iam.gserviceaccount.com",
+  "client_id": "110688226402082025554",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nutechintegrasi%40tes-nutech-integrasi-377823.iam.gserviceaccount.com"
+}
